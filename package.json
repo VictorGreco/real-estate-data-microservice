@@ -1,7 +1,7 @@
 {
-  "name": "%NAME%",
+  "name": "real-estate-data-microservice",
   "version": "1.0.0",
-  "description": "%DESCRIPTION%",
+  "description": "This API return data from real estare all arround the world",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VictorGreco/%REPO_NAME%.git"
+    "url": "git+https://github.com/VictorGreco/real-estate-data-microservice.git"
   },
   "keywords": [
     "node",
@@ -21,9 +21,9 @@
   "author": "VictorGreco",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VictorGreco/%REPO_NAME%/issues"
+    "url": "https://github.com/VictorGreco/real-estate-data-microservice/issues"
   },
-  "homepage": "https://github.com/VictorGreco/%REPO_NAME%#readme",
+  "homepage": "https://github.com/VictorGreco/real-estate-data-microservice#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
